@@ -1,3 +1,4 @@
 # Blockchain 
-Basic blockchain structure implementation for learning porposes using Node and TypeScript.
-Template by: [text](https://github.com/khaosdoctor)
+Basic blockchain structure implementation for learning purposes using Node and TypeScript.
+<br/>
+Template by: [Lucas Santos](https://github.com/khaosdoctor)
