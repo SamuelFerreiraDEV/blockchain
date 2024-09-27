@@ -1,2 +1,3 @@
-# node-ts-template
-Template project for a TS application (raw)
+# Blockchain 
+Basic blockchain structure implementation for learning porposes using Node and TypeScript.
+Template by: [text](https://github.com/khaosdoctor)
